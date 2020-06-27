@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbcc3d64-6a0c-4130-959c-4f7ab738bee2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Movies" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Movies" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Movies" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z4WwQSzKpFGvZzroE5uBMWzEG4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SQL.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\d_pug\Documents\GitHub\Movie-Library" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.client-main">
+    <configuration name="2 CLIENT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Movie_Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 CLIENT.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OOP_project" type="PythonConfigurationType" factoryName="Python">
+      <module name="Movie_Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files (x86)\Python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrueMainWRK" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Movie_Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrueMainWRK.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backend_server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Movie_Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client-main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Movie_Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client-main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client_server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Movie_Library" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.OOP_project" />
+      <item itemvalue="Python.backend_server (1)" />
+      <item itemvalue="Python.client_server (1)" />
+      <item itemvalue="Python.client-main" />
+      <item itemvalue="Python.TrueMainWRK" />
+      <item itemvalue="Python.2 CLIENT" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.client-main" />
+        <item itemvalue="Python.backend_server (1)" />
+        <item itemvalue="Python.client_server (1)" />
+        <item itemvalue="Python.2 CLIENT" />
+        <item itemvalue="Python.TrueMainWRK" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbcc3d64-6a0c-4130-959c-4f7ab738bee2" name="Default Changelist" comment="" />
+      <created>1584099084691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584099084691</updated>
+      <workItem from="1584099129595" duration="4667000" />
+      <workItem from="1584508594635" duration="2818000" />
+      <workItem from="1585136268882" duration="12137000" />
+      <workItem from="1585297600100" duration="1469000" />
+      <workItem from="1585804539587" duration="15584000" />
+      <workItem from="1585827967513" duration="886000" />
+      <workItem from="1585911702205" duration="4923000" />
+      <workItem from="1587128396323" duration="504000" />
+      <workItem from="1587274828147" duration="14724000" />
+      <workItem from="1587303692990" duration="6758000" />
+      <workItem from="1587358862320" duration="16171000" />
+      <workItem from="1587392389633" duration="8940000" />
+      <workItem from="1587445433854" duration="10353000" />
+      <workItem from="1587538093081" duration="992000" />
+      <workItem from="1587545478539" duration="1506000" />
+      <workItem from="1587621430161" duration="5736000" />
+      <workItem from="1591078569678" duration="4134000" />
+      <workItem from="1591162791762" duration="464000" />
+      <workItem from="1591169403300" duration="7452000" />
+      <workItem from="1591193851458" duration="1400000" />
+      <workItem from="1591537628586" duration="1384000" />
+      <workItem from="1591591872773" duration="746000" />
+      <workItem from="1591681131733" duration="965000" />
+      <workItem from="1591763112501" duration="584000" />
+      <workItem from="1591937017513" duration="5265000" />
+      <workItem from="1591964273294" duration="2073000" />
+      <workItem from="1591972286364" duration="2420000" />
+      <workItem from="1592029493159" duration="17113000" />
+      <workItem from="1592110316290" duration="13735000" />
+      <workItem from="1592196684636" duration="904000" />
+      <workItem from="1592205252598" duration="4839000" />
+      <workItem from="1592216629019" duration="11986000" />
+      <workItem from="1592284293812" duration="13480000" />
+      <workItem from="1592313412984" duration="3650000" />
+      <workItem from="1592376110864" duration="24953000" />
+      <workItem from="1592457507355" duration="16603000" />
+      <workItem from="1592550238110" duration="6575000" />
+      <workItem from="1592564409020" duration="9993000" />
+      <workItem from="1592628765178" duration="29070000" />
+      <workItem from="1592697178766" duration="30036000" />
+      <workItem from="1592740033679" duration="5849000" />
+      <workItem from="1592801576351" duration="8087000" />
+      <workItem from="1592810094629" duration="23593000" />
+      <workItem from="1592885504082" duration="18147000" />
+      <workItem from="1592912608957" duration="7018000" />
+      <workItem from="1592974566726" duration="671000" />
+      <workItem from="1592978168478" duration="5743000" />
+      <workItem from="1592984308522" duration="5502000" />
+      <workItem from="1592991092908" duration="588000" />
+      <workItem from="1592992907028" duration="4406000" />
+      <workItem from="1593059384096" duration="22000000" />
+      <workItem from="1593145490253" duration="33156000" />
+      <workItem from="1593225844034" duration="4599000" />
+      <workItem from="1593233557254" duration="2174000" />
+      <workItem from="1593236278861" duration="2584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="26" width="660" height="276" key="#Notifications" timestamp="1592227911496">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1587276229352" />
+    <state x="322" y="26" width="660" height="276" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1592227911496" />
+    <state x="509" y="24" key="#OOP_project" timestamp="1592117521950">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="24" key="#OOP_project/0.0.1600.860@0.0.1600.860" timestamp="1592117521950" />
+    <state x="509" y="24" key="#client_TRY" timestamp="1592980092651">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="509" y="24" key="#client_TRY/0.0.1600.860@0.0.1600.860" timestamp="1592980092651" />
+    <state x="160" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593230584372">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="160" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1593230584372" />
+    <state x="457" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587278861004">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587278861004" />
+    <state x="468" y="65" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1587641789749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="468" y="65" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1587641789749" />
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592899130297">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1592899130297" />
+    <state x="461" y="190" key="#com.intellij.tools.ToolEditorDialog" timestamp="1587641790705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="461" y="190" key="#com.intellij.tools.ToolEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1587641790705" />
+    <state width="715" height="466" key="DebuggerActiveHint" timestamp="1593179524471">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="715" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1593179524471" />
+    <state x="542" y="141" key="FileChooserDialogImpl" timestamp="1592117501612">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587626085224" />
+    <state x="542" y="141" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1592117501612" />
+    <state width="1556" height="209" key="GridCell.Tab.0.bottom" timestamp="1593238439852">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587643558873" />
+    <state width="1556" height="209" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593238439852" />
+    <state width="1556" height="209" key="GridCell.Tab.0.center" timestamp="1593238439852">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587643558872" />
+    <state width="1556" height="209" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1593238439852" />
+    <state width="1556" height="209" key="GridCell.Tab.0.left" timestamp="1593238439852">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587643558871" />
+    <state width="1556" height="209" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1593238439852" />
+    <state width="1556" height="209" key="GridCell.Tab.0.right" timestamp="1593238439852">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587643558872" />
+    <state width="1556" height="209" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1593238439852" />
+    <state width="1556" height="208" key="GridCell.Tab.1.bottom" timestamp="1593238435493">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587458567060" />
+    <state width="1556" height="208" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1593238435493" />
+    <state width="1556" height="208" key="GridCell.Tab.1.center" timestamp="1593238435493">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587458567060" />
+    <state width="1556" height="208" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1593238435493" />
+    <state width="1556" height="208" key="GridCell.Tab.1.left" timestamp="1593238435493">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587458567060" />
+    <state width="1556" height="208" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1593238435493" />
+    <state width="1556" height="208" key="GridCell.Tab.1.right" timestamp="1593238435493">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587458567060" />
+    <state width="1556" height="208" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1593238435493" />
+    <state x="239" y="7" width="978" height="708" key="SettingsEditor" timestamp="1591085845834">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="204" y="6" width="978" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587642729865" />
+    <state x="239" y="7" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1591085845829" />
+    <state width="808" height="438" key="XDebugger.FullValuePopup" timestamp="1593228637368">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="808" height="438" key="XDebugger.FullValuePopup/0.0.1600.860@0.0.1600.860" timestamp="1593228637368" />
+    <state x="579" y="254" width="326" height="234" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1585137301135">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="579" y="254" width="326" height="234" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1366.728@0.0.1366.728" timestamp="1585137301135" />
+    <state x="0" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1585136931024">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1585136931024" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587304043484">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587304043484" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587458473189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587458473189" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CreateFilmInProgressWRK.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CreateFilmWRK.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Movie_Library__$backend_server__1_.coverage" NAME="backend_server (1) Coverage Results" MODIFIED="1593238435292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$GUI.coverage" NAME="GUI Coverage Results" MODIFIED="1587641794757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$TrueMainWRK.coverage" NAME="TrueMainWRK Coverage Results" MODIFIED="1593089867673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library__$client_main.coverage" NAME="client-main Coverage Results" MODIFIED="1593238439823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$client_Server__1_.coverage" NAME="client_Server (1) Coverage Results" MODIFIED="1592229279723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$client_name__1_.coverage" NAME="client-name (1) Coverage Results" MODIFIED="1592040741583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$LoginWRK.coverage" NAME="LoginWRK Coverage Results" MODIFIED="1592314337856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$sasa.coverage" NAME="sasa Coverage Results" MODIFIED="1585816062702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$client_TY2.coverage" NAME="client_TY2 Coverage Results" MODIFIED="1592916042988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$21.coverage" NAME="21 Coverage Results" MODIFIED="1592227948261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$Server.coverage" NAME="Server Coverage Results" MODIFIED="1591182260522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/Movie_Library$OOP_project.coverage" NAME="OOP_project Coverage Results" MODIFIED="1593185243178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$server_client_test.coverage" NAME="server_client_test Coverage Results" MODIFIED="1592906328127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$client_main.coverage" NAME="client-main Coverage Results" MODIFIED="1593230819522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$ClientTest.coverage" NAME="ClientTest Coverage Results" MODIFIED="1591182263100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/Movie_Library$server_TRY.coverage" NAME="server_TRY Coverage Results" MODIFIED="1592984461082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$client_handler.coverage" NAME="client-handler Coverage Results" MODIFIED="1592570807011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library__$2_CLIENT.coverage" NAME="2 CLIENT Coverage Results" MODIFIED="1593235444273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$API.coverage" NAME="API Coverage Results" MODIFIED="1585812846353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$MainClient.coverage" NAME="client-main Coverage Results" MODIFIED="1592047445092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$backend_server__1_.coverage" NAME="backend_server (1) Coverage Results" MODIFIED="1593230817406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$server_back_test.coverage" NAME="server_back_test Coverage Results" MODIFIED="1592984475129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$client_main__1_.coverage" NAME="client-main (1) Coverage Results" MODIFIED="1592217915535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$SendDataToServer.coverage" NAME="client_Server Coverage Results" MODIFIED="1592209006365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$client_TRY.coverage" NAME="client_TRY Coverage Results" MODIFIED="1592984467465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library__$client_server__1_.coverage" NAME="client_server (1) Coverage Results" MODIFIED="1593238108048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$Server__1_.coverage" NAME="backend_server Coverage Results" MODIFIED="1592210712431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$TrueMain.coverage" NAME="TrueMain Coverage Results" MODIFIED="1592463994443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$ew.coverage" NAME="ew Coverage Results" MODIFIED="1592227792504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Movie_Library$client_server__1_.coverage" NAME="client_server (1) Coverage Results" MODIFIED="1592985977790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
